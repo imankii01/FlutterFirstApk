@@ -1,0 +1,20 @@
+**Flutter is a frame work && Dart is a language used in flutter 
+** Dart Language and why its is important
+    --XML requirement to develo UI
+    --Java kotlin to backend development
+    --Data connectivity for DBMS ---Simlar to API management
+
+** Flutter is a single code based framework ,i.e here we use only one language for all things ,like logic building and event listening ---> which is Dart
+
+--We learn dart for flutter development ,becous eits increase the speed to learn flutter development
+**WHat is Dart?
+   --Launch is 2011,developed by google
+   --object oriendted & strongly types
+   --A mixture of JavaScript and Java
+   -- Fouces on frontend(mobile .web,apps)
+   --user interfrenace(UI) development
+
+**Benefits of Dart
+.Use of async and await for asynchronus programming
+.Dart is one of very few langauge (and perhaps the only "mainstream"language )that is well suited to being compiled both AOT(ahead-of-time) & JIT(just in time).
+support both kinds of compilation provides significans advantages to dart and (especailly)Flutter (Hot Reloading Feature)
