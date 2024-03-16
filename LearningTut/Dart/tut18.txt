@@ -18,3 +18,14 @@
 .Use of async and await for asynchronus programming
 .Dart is one of very few langauge (and perhaps the only "mainstream"language )that is well suited to being compiled both AOT(ahead-of-time) & JIT(just in time).
 support both kinds of compilation provides significans advantages to dart and (especailly)Flutter (Hot Reloading Feature)
+.JIT compilation is used during development ,using a compiler that is especially sat,THen when an app is ready for release it it compiled AOT.
+.Extremeely fast development cyvles and sast execution and startup times
+dart can be compiled into JavaScriptso it can be executed in browser
+.
+Flutter doesent split layour btw your program and an templating or layuot langauge like jsx or XML ,a
+
+
+//Dart with flutter
+Flutter API
+uitlity + widgets
+ Dart Code
