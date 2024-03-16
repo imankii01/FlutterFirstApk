@@ -35,22 +35,39 @@ void main() {
 // print(result);
 // flyobjects.where((name) => name.contains('turn')).forEach(print);
 
-int? a=5;    //intilsation
-print(a);
-a=7;
-print(a);
-// to print null
-int ? b;
-print(b);
-// inline declaration
-String name ='Ankit';
-print(name);
-BigInt longValue ;
-longValue =BigInt.parse('234798572345927345973249723479324597345972345879324893497');
-print(longValue);
-double percentage = 99.65;
-num percentagesss = 99.65;
-bool isCheck  = false;
+// int? a=5;    //intilsation
+// print(a);
+// a=7;
+// print(a);
+// // to print null
+// int ? b;
+// print(b);
+// // inline declaration
+// String name ='Ankit';
+// print(name);
+// BigInt longValue ;
+// longValue =BigInt.parse('234798572345927345973249723479324597345972345879324893497');
+// print(longValue);
+// double percentage = 99.65;
+// num percentagesss = 99.65;
+// bool isCheck  = false;
+
+// Roll of var and dynamic
+// String a ="Ankit";
+
+
+// // var
+// var subject = 'Maths';
+// subject = 7 as String; //not allot due to typecast differtn ,& by using as its chagne the ype cast
+// var number  = 455;
+// number  = 'asdfjh' as int;
+// print(subject);
+// var section;
+dynamic section;
+section = 44534;
+print(section);
+section = 'dgdfs3';
+print(section);
 
 
 }
