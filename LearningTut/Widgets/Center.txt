@@ -1,0 +1,1 @@
+It aligns its child widget to the cneter of the available space on the screen
