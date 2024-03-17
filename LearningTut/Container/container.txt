@@ -1,0 +1,4 @@
+It is a widget that combines common painting,positionin ,adn sizing of the child widgets
+It is also a class to store one or more widget and position them on th screen according to our needs
+Generally it is imilar to a box for storing contents
+It allows many attributes to the user for decortating its child widget such as using margin ,which separates teh container with other content.
