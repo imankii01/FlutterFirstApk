@@ -1,5 +1,5 @@
 
-import 'package:first_flutter_apk/appComponent/homView.dart';
+import 'package:first_flutter_apk/view/homView.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {
@@ -10,7 +10,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
         title: 'Flutter Learn',
+        theme: ThemeData(
+          primarySwatch: Colors.green
+        ),
         home: homeView());
   }
 }
