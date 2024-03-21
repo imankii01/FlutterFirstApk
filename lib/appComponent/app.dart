@@ -1,5 +1,5 @@
 
-import 'package:first_flutter_apk/view/homView.dart';
+import 'package:first_flutter_apk/view/calculator/homView.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {
