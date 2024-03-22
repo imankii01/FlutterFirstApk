@@ -12,8 +12,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
         title: 'Flutter Learn',
+
         theme: ThemeData(
-          primarySwatch: Colors.green
+          primarySwatch: Colors.green,
+     fontFamily:  .notosSans().fontFamily
         ),
         home: homeView());
   }

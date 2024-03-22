@@ -1,0 +1,65 @@
+{
+    "icecreams": [
+      {
+        "flavor": "Chocolate",
+        "description": "Rich and indulgent chocolate ice cream",
+        "toppings": ["Caramel Drizzle", "Chopped Nuts"],
+        "price": 5.49,
+        "image": "https://wallpapercave.com/wp/wp2392023.jpg",
+        "ingredients": [
+          {"name": "Cocoa Powder", "quantity": "1/2 cup"},
+          {"name": "Whipping Cream", "quantity":"1/2 cup"},
+          {"name":"Egg Yolks","quantity":"4"}
+        ]
+      },
+      {
+        "flavor":"Strawberry",
+        "description":"Sweet and refreshing strawberry flavor",
+        "toppings":["Fresh Strawberries","Rainbow Sprinkles"],
+        "price":4.79,
+        "image":"https://th.bing.com/th/id/OIP.SaXbKG4zis1sVt6LJEvhbQHaHa?w=148&h=180&c=7&r=0&o=5&pid=1.7",
+        "ingredients":[
+          {"name":"Fresh Strawberries","quantity":"1 cup"},
+          {"name":"Sugar","quantity":"1/4 cup"},
+          {"name":"Lemon Juice","quantity":"1 tbsp"}
+        ]
+      },
+      {
+        "flavor": "Vanilla",
+        "description": "Smooth and creamy vanilla ice cream",
+        "toppings": ["Chocolate Syrup", "Whipped Cream"],
+        "price": 4.99,
+        "image": "https://th.bing.com/th/id/OIP._47pB_Adhqdmev-9q6Ss7QHaEK?w=245&h=180&c=7&r=0&o=5&pid=1.7",
+        "ingredients": [
+          {"name": "Vanilla Extract", "quantity": "2 tsp"},
+          {"name": "Heavy Cream", "quantity":"1 cup"},
+          {"name":"Sugar","quantity":"1/3 cup"}
+        ]
+      },
+      {
+        "flavor": "Mint Chocolate Chip",
+        "description": "Refreshing mint ice cream with chocolate chips",
+        "toppings": ["Chocolate Chips", "Mint Leaves"],
+        "price": 5.29,
+        "image": "https://th.bing.com/th/id/OIP.ochrbJsXteDv1PJFzf-0lAHaFD?w=263&h=180&c=7&r=0&o=5&pid=1.7",
+        "ingredients": [
+          {"name": "Fresh Mint Leaves", "quantity": "1/4 cup"},
+          {"name": "Dark Chocolate Chips", "quantity":"1/2 cup"},
+          {"name":"Vanilla Extract","quantity":"1 tsp"}
+        ]
+      },
+      {
+        "flavor": "Mint Chocolate Chip",
+        "description": "Refreshing mint ice cream with chocolate chips",
+        "toppings": ["Chocolate Chips", "Mint Leaves"],
+        "price": 5.29,
+        "image": "https://th.bing.com/th/id/OIP.L6hEBG8uwvg_7s016SwN6gHaDt?w=334&h=180&c=7&r=0&o=5&pid=1.7",
+        "ingredients": [
+          {"name": "Fresh Mint Leaves", "quantity": "1/4 cup"},
+          {"name": "Dark Chocolate Chips", "quantity":"1/2 cup"},
+          {"name":"Vanilla Extract","quantity":"1 tsp"}
+        ]
+      }
+    ]
+  }
+  
