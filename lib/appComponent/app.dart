@@ -1,6 +1,7 @@
 
 import 'package:first_flutter_apk/view/calculator/homView.dart';
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({
@@ -14,8 +15,7 @@ class MyApp extends StatelessWidget {
         title: 'Flutter Learn',
 
         theme: ThemeData(
-          primarySwatch: Colors.green,
-     fontFamily:  .notosSans().fontFamily
+          fontFamily: GoogleFonts.notoSans().fontFamily
         ),
         home: homeView());
   }
