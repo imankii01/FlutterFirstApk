@@ -1,4 +1,5 @@
-import 'package:first_flutter_apk/view/calculatorView.dart';
+import 'package:first_flutter_apk/Icecream/icecream_view.dart';
+import 'package:first_flutter_apk/calculator/view/calculatorView.dart';
 import 'package:flutter/material.dart';
 
 class homeView extends StatelessWidget {
@@ -9,12 +10,12 @@ class homeView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.green,
+      // backgroundColor: Colors.green,
     // appBar:AppBar(),
     body: SafeArea(
       child: Container(
-        color: Colors.green,
-        child: const CalculatorView(),
+        // color: Colors.green,
+        child: const IceCreamView(),
       ),
     ),
     );
